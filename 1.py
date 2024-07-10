@@ -4,6 +4,8 @@ from OpenGL.GLU import *
 import random
 import math
 
+#hi change
+
 catcher_x= 0
 diamond_x=random.uniform(-400, 400)
 diamond_y=400
