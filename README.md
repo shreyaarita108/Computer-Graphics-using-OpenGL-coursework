@@ -1,1 +1,1 @@
-Some work I did using OpenGL for my Computer Graphics course
+Some work I did using OpenGL for my CSE423:Computer Graphics course
